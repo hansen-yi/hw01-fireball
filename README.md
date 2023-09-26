@@ -7,6 +7,14 @@ The amplitude and the frequency values of the fbm noise can be adjusted using th
 
 The background of the scene has been modified using perlin noise to give the fireball a more interesting backdrop.
 
+## Screenshots
+![Screenshot (238)](https://github.com/hansen-yi/hw01-fireball/assets/97490525/127a6dd5-3642-4ca3-84a9-925cfaf6e30d)
+![Screenshot (241)](https://github.com/hansen-yi/hw01-fireball/assets/97490525/59a270bb-436f-4e43-9c9d-9b174c64f0c8)
+![Screenshot (236)](https://github.com/hansen-yi/hw01-fireball/assets/97490525/e5d66582-78a6-4571-8050-21bab56d8aa8)
+
+
+## Live Demo
+https://hansen-yi.github.io/hw01-fireball/
 
 ## Objective
 
